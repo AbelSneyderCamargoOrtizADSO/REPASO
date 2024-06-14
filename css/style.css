@@ -115,6 +115,7 @@ li.item:hover a{
   width: 450px;
   border: solid 1px var(--Husk);
   border-radius: var(--border-radius);
+  margin: 0 auto;
 }
 
 .card__header{
