@@ -40,6 +40,13 @@ header{
 section{
   padding: var(--padding);
 }
+.bg-white{
+  background-color: var(--white);
+  color: var(--Mine-Shaft);
+}
+.color-dark{
+  color: var(--Mine-Shaft);
+}
 
 a{
   color: var(--Sycamore);
