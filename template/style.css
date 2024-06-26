@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #222;
+  color: white;
+}
+
+.cards{
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card{
+  width: 250px;
+  border: 1px solid white;
+  padding: 5px;
+}
